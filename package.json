@@ -13,5 +13,10 @@
     "gulp-watch": "^4.3.11"
   },
   "dependencies": {
+    "express": "^4.15.0",
+    "express-handlebars": "^3.0.0",
+    "hbs": "^4.0.1",
+    "install": "^0.8.7",
+    "npm": "^4.3.0"
   }
 }
